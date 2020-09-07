@@ -1,1 +1,1 @@
-New-Item -Path "c:\" -Name "logfghgfhfghiles" -ItemType "directory"
+New-Item -Path "c:\" -Name "Githubas" -ItemType "directory"
