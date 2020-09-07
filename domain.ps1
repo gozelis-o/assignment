@@ -1,1 +1,1 @@
-New-Item -Path "c:\" -Name "Githussbas" -ItemType "directory"
+New-Item -Path "c:\" -Name "Domino" -ItemType "directory"
