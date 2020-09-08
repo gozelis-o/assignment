@@ -1,1 +1,1 @@
-New-Item -Path "c:\" -Name "Dominos1" -ItemType "directory"
+Rename-Computer -NewName "Automationtest" -Restart -Force
