@@ -1,1 +1,1 @@
-Rename-Computer -NewName "Automationtest" -Restart -Force
+Rename-Computer -NewName "DEMONstrate" -Restart -Force
